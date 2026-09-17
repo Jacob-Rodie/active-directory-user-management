@@ -1,6 +1,6 @@
 # Active Directory User Management & Administration
 
-This project demonstrates setting up and administering a Windows Active Directory environment, focusing on user accounts, groups, permissions, authentication, and common account-management tasks relevant to IT Help Desk and Technical Support roles.
+This project demonstrates how to set up and administer a Windows Active Directory environment, focusing on user accounts, groups, permissions, authentication, and common account-management tasks relevant to IT Help Desk and Technical Support roles.
 
 ## Environments and Technologies Used
 
